@@ -1,0 +1,4 @@
+# Versiona apenas o index.html (e este .gitignore)
+*
+!.gitignore
+!index.html
